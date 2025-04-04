@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.alert {
+  border: none !important;
+}
+
+.alert-success {
+  background-color: #198754 !important; /* Green */
+  color: white !important;
+}
+
+.alert-danger {
+  background-color: #dc3545 !important; /* Red */
+  color: white !important;
+}
+
+.alert-warning {
+  background-color: #ffc107 !important; /* Yellow */
+  color: black !important;
+}
+
+.alert-info {
+  background-color: #0dcaf0 !important; /* Light Blue */
+  color: white !important;
+}
+
+.alert-dark {
+  background-color: #343a40 !important; /* Dark */
+  color: white !important;
+}
